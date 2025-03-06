@@ -1,6 +1,22 @@
-<h2 align="left">Hi 👋! My name is Alex and I'm a Back-End Developer from Brazil.</h2>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=9C9C9C&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Alex+Henrique!;" />
+</h1>
+
+<h3 align="center">Full-Stack Developer from Brazil!</h3>
+
+<div align="center">
+ 
+ 
+👨‍🎓 I am currently studying **"Systems Analysis and Development"** at *UNIP*.
+ 
+ 🌱 I'm currently learning **C#, .Net, Phyton**.
+
+⚡ Motivation: Don't be afraid to dream. Be afraid of not believing in yourself.
+
+ </div>
 
 ###
+<hr/>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alexprado2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
